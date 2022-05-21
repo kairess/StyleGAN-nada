@@ -22,7 +22,7 @@
 
 |Real|pSp(e4e)|Rotten Zombie|
 |---|---|---|
-|![](img/01.png)|![](img/01.png)|![](img/01_edit.png)|
+|![](img/01.png)|![](img/01_psp.png)|![](img/01_edit.png)|
 
 ## Run
 
