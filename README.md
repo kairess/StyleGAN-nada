@@ -1,6 +1,35 @@
 # StyleGAN3 + CLIP 얼굴 합성
 
+## CLIP-Guided Domain Adaptation
 
+### 아이유 IU
+
+<video src="https://user-images.githubusercontent.com/5242555/169638621-d8378032-5709-487a-8d92-61bfe85c4ebc.mp4" controls width="512"></video>
+
+### 좀비 Zombie
+
+<video src="https://user-images.githubusercontent.com/5242555/169638709-b7a69aab-24c1-4d86-83f2-ec89415664a7.mp4" controls width="512"></video>
+
+### 김정은 Kim Jong Un
+
+<video src="https://user-images.githubusercontent.com/5242555/169638798-d5d6cc8d-492c-4c86-939f-8e68aa66da79.mp4" controls width="512"></video>
+
+### [CUHK Face Sketch](http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html)
+
+<video src="https://user-images.githubusercontent.com/5242555/169638851-8f4eb280-daa0-4257-8d3d-1d8dd272aeb5.mp4" controls width="512"></video>
+
+## Real Image
+
+|Real|pSp(e4e)|Rotten Zombie|
+|---|---|---|
+|![](img/01.png)|![](img/01.png)|![](img/01_edit.png)|
+
+## Run
+
+- [simple.ipynb](simple.ipynb)
+- [e4e.ipynb](e4e.ipynb)
+
+---
 
 # StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators (SIGGRAPH 2022)
 
