@@ -14,7 +14,7 @@ from functools import partial
 
 from ZSSGAN.model.sg2_model import Generator, Discriminator
 from ZSSGAN.criteria.clip_loss import CLIPLoss       
-import ZSSGAN.legacy as legacy
+# import ZSSGAN.legacy as legacy
 
 def requires_grad(model, flag=True):
     for p in model.parameters():
