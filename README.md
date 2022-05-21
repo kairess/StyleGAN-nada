@@ -29,6 +29,12 @@
 - [simple.ipynb](simple.ipynb)
 - [e4e.ipynb](e4e.ipynb)
 
+## Pretrained Models
+
+- StyleGAN3-R FFHQ https://api.ngc.nvidia.com/v2/models/nvidia/research/stylegan3/versions/1/files/stylegan3-r-ffhq-1024x1024.pkl
+- Restyle pSp FFHQ https://drive.google.com/file/d/12WZi2a9ORVg-j6d9x4eF-CKpLaURC2W-/view
+- Dlib Shape Predictor https://github.com/italojs/facial-landmarks-recognition/raw/master/shape_predictor_68_face_landmarks.dat
+
 ---
 
 # StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators (SIGGRAPH 2022)
